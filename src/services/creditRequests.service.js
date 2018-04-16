@@ -6,7 +6,7 @@ const ERRORS = {
     ADDED_CREDITEXIST: 'Ya cuenta con una solicitud de crédito en proceso.'
 }
 const RESPONSE = {
-    ADD_CREDIT: 'La solicitud de crédito fue registrada correctamente.'
+    ADD_CREDIT: 'La solicitud de crédito fue registrada correctamente'
 }
 
 const listCreditRequests = ({ id, clientId, state }) => {
